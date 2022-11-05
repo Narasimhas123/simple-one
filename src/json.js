@@ -1,0 +1,2 @@
+export const headings = ["Shriram Unnati FD at 8.90%", "Shriram Unnati FD at 7.90%", "Shriram Unnati FD at 6.90%"];
+export const images=["https://th.bing.com/th/id/OIP.amOBcNWlh_TdeQMUHZwskQHaDt?pid=ImgDet&rs=1", "https://mycoach.shriram.com/theme/boost/assets/images/SLIC.png", "https://th.bing.com/th/id/OIP.T0EK3tQNkLp_zQno8Hbl5gHaDJ?pid=ImgDet&w=334&h=142&rs=1"]
